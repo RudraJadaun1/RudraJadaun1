@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RudraJadaun
-- 👀 I’m interested in Machine Learning and C++ in Electronis
+- 👀 I’m interested in Machine Learning and C++ in Electronics
 - 🌱 I’m currently learning Python Computer Vision
 - 💞️ I’m looking to collaborate on My Project For Armed Forces
 - 📫 How to reach me Rudrajadaun09@gmail.com
